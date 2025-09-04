@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e90ff"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="6" width="36" height="36" rx="9" fill="url(#g)"/>
+  <path d="M12 24c0-4 3.5-7.5 7.5-7.5S27 20 27 24s-3.5 7.5-7.5 7.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M18 24h4.5" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+  <text x="50" y="30" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" fill="#0f172a">Protege Todos Brasil</text>
+</svg>
